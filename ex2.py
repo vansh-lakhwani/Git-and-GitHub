@@ -3,3 +3,6 @@ def division(a,b):
 
 def modulus(a,b):
     return a
+
+def multiplication(a,b):
+    return a*b
